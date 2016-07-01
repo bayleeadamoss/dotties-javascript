@@ -1,1 +1,2 @@
+Plug 'scrooloose/syntastic'
 Plug 'pmsorhaindo/syntastic-local-eslint.vim'
