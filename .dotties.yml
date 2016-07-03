@@ -1,0 +1,4 @@
+packages:
+  - tinytacoteam/dotties-vim
+ignore:
+  - readme.md
