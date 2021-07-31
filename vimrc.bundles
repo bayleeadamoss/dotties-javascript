@@ -1,2 +1,1 @@
-Plug 'scrooloose/syntastic'
-Plug 'pmsorhaindo/syntastic-local-eslint.vim'
+Plug 'w0rp/ale'
